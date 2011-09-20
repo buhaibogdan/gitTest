@@ -2,5 +2,5 @@
 
 class SomeClass
 {
-
+bla bla
 }
