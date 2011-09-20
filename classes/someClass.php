@@ -9,4 +9,6 @@ class SomeClass
 	{}
 	
 	//this is in the feautures branch
+	
+	//another comment to master
 }
