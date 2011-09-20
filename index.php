@@ -8,5 +8,5 @@ foreach($vector as $elem)
 {
 	echo $elem, ', ';
 }
-aaa
-echo '##########################';
+
+echo '##########################';bbbbb
